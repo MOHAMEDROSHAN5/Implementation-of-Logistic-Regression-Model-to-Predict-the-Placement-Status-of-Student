@@ -89,25 +89,25 @@ clf.predict([[65.00,58.00,0,84.00,0,0,65.0,0,57.80
 
 ## OUTPUT:
 ### READING THE DATA
-![READ](./4a.png)
+![READ](4a.png)
 ### DROPING THE DATA
-![DROP](./4b.png)
+![DROP](4b.png)
 ### SHAPE AFTER DROP
-![SHAPE](./4c.png)
+![SHAPE](4c.png)
 ### INFO BEFORE CONVERSION
-![INFO](./4d.png)
+![INFO](4d.png)
 ### INFO AFTER CATEGORY CONVERSION
-![INFO](./4e.png)
+![INFO](4e.png)
 ### DATA AFTER CADCODES CONVERSION
-![DATA](./4f.png)
+![DATA](4f.png)
 ### INFO AFTER CADCODES CONVERSION
-![READ](./4g.png)
+![READ](4g.png)
 ### DEPENDENT VARIABLE
-![Y](./4h.png)
+![Y](4h.png)
 ### F1 SCORE
-![SCORE](./4i.png)
+![SCORE](4i.png)
 ### UNKNOWN PREDICTED VALUE
-![VALUE](./4j.png)
+![VALUE](4j.png)
 
 
 ## RESULT:
