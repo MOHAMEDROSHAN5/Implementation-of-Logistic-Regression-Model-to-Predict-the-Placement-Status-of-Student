@@ -109,9 +109,9 @@ clf.predict([[65.00,58.00,0,84.00,0,0,65.0,0,57.80
 ## UNKNOWN PREDICTED VALUE
 ![VALUE](4j.png)
 ## CONFUSION MATRIX
-![SCORE](4K.png)
+![SCORE](4k.png)
 ## CLASSIFICATION REPORT
-![VALUE](4L.png)
+![VALUE](4l.png)
 
 
 
